@@ -6,4 +6,5 @@ I always do math for literally no reason.
 
 **Did you know that...?**
 bitches = undefined
+
 In conclusion, you got no bitches, even programming languages (non-humans) can tell you that. 🤓
